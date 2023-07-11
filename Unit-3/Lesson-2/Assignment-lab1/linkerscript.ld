@@ -35,3 +35,5 @@ SECTIONS
 
 	STACK_TOP = . ;
 }
+
+MAP(output.map)
